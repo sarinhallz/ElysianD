@@ -1,0 +1,25 @@
+.entrance{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 6% 0;
+}
+
+.text{
+    width: 50%;
+    margin: 5% 0 0 7%;
+}
+
+.text p{
+    color: #FFF;
+    font-size: 2.5vw;
+    margin-bottom: 3vh;
+}
+
+.text span{
+    font-weight: bold;
+}
+
+.image img{
+    width: 50vw;
+}
