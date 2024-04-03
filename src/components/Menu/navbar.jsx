@@ -1,5 +1,5 @@
 import "./navbar.css";
-import Logo from "../../assets/images/logo-elysian.svg";
+import Logo from "../../../public/images/logo-elysian.svg";
 
 export function Navbar() {
     return (
